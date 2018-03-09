@@ -15,9 +15,7 @@ import CoreLocation
 
 // Flip this to *true* to use GCD
 
-private let kGCDMode: Bool = false
-
-
+private let kGCDMode: Bool = true
 
 
 class ViewController: UIViewController {
